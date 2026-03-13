@@ -1,0 +1,704 @@
+[
+  {
+    "id": 0,
+    "name": "愚者",
+    "englishName": "The Fool",
+    "suit": "Major",
+    "number": 0,
+    "upright": "冒险、新开始、纯真、跳跃信心",
+    "reversed": "犯错、粗心、缺乏方向感"
+  },
+  {
+    "id": 1,
+    "name": "魔术师",
+    "englishName": "The Magician",
+    "suit": "Major",
+    "number": 1,
+    "upright": "力量、专注、发展、意愿",
+    "reversed": "狡诈、操纵、缺乏力量"
+  },
+  {
+    "id": 2,
+    "name": "女祭司",
+    "englishName": "The High Priestess",
+    "suit": "Major",
+    "number": 2,
+    "upright": "直觉、神圣知识、女性能量、潜意识",
+    "reversed": "秘密、混乱、沉默、遗忘"
+  },
+  {
+    "id": 3,
+    "name": "皇后",
+    "englishName": "The Empress",
+    "suit": "Major",
+    "number": 3,
+    "upright": "女性味、美丽、丰富、自然、怀孕",
+    "reversed": "虚荣、依赖、贫穷、创意阻滞"
+  },
+  {
+    "id": 4,
+    "name": "皇帝",
+    "englishName": "The Emperor",
+    "suit": "Major",
+    "number": 4,
+    "upright": "权力、权威、领导、男性能量、结构",
+    "reversed": "幼稚、弱点、极权、缺乏领导"
+  },
+  {
+    "id": 5,
+    "name": "教皇",
+    "englishName": "The Hierophant",
+    "suit": "Major",
+    "number": 5,
+    "upright": "信仰、灵性、传统、教导、仪式",
+    "reversed": "固执、教条、反叛、非理性信仰"
+  },
+  {
+    "id": 6,
+    "name": "恋人",
+    "englishName": "The Lovers",
+    "suit": "Major",
+    "number": 6,
+    "upright": "爱、和谐、信任、价值观、选择",
+    "reversed": "失衡、分离、错误的价值观"
+  },
+  {
+    "id": 7,
+    "name": "战车",
+    "englishName": "The Chariot",
+    "suit": "Major",
+    "number": 7,
+    "upright": "决心、意志、控制、胜利、行进",
+    "reversed": "失控、停滞、方向不稳定"
+  },
+  {
+    "id": 8,
+    "name": "力量",
+    "englishName": "Strength",
+    "suit": "Major",
+    "number": 8,
+    "upright": "内在力量、勇气、耐心、自制、鼓励",
+    "reversed": "自我怀疑、虚弱、缺乏毅力"
+  },
+  {
+    "id": 9,
+    "name": "隐士",
+    "englishName": "The Hermit",
+    "suit": "Major",
+    "number": 9,
+    "upright": "反思、内向、探索、内在指导、独处",
+    "reversed": "孤立、迷失、过度分析、拒绝"
+  },
+  {
+    "id": 10,
+    "name": "命运之轮",
+    "englishName": "Wheel of Fortune",
+    "suit": "Major",
+    "number": 10,
+    "upright": "命运、周期、好运、幸运、机会",
+    "reversed": "厄运、停滞、无法改变的事情"
+  },
+  {
+    "id": 11,
+    "name": "正义",
+    "englishName": "Justice",
+    "suit": "Major",
+    "number": 11,
+    "upright": "正义、真理、平衡、法律、责任",
+    "reversed": "不公正、欺诈、不平衡、偏见"
+  },
+  {
+    "id": 12,
+    "name": "吊人",
+    "englishName": "The Hanged Man",
+    "suit": "Major",
+    "number": 12,
+    "upright": "暂停、放弃、等待、限制、视角改变",
+    "reversed": "停滞、浪费时间、放弃"
+  },
+  {
+    "id": 13,
+    "name": "死神",
+    "englishName": "Death",
+    "suit": "Major",
+    "number": 13,
+    "upright": "结束、开始、改变、过渡、蜕变",
+    "reversed": "停滞、阻力、不愿改变、衰退"
+  },
+  {
+    "id": 14,
+    "name": "节制",
+    "englishName": "Temperance",
+    "suit": "Major",
+    "number": 14,
+    "upright": "平衡、节制、和谐、耐心、融合",
+    "reversed": "失衡、过度、不耐烦、冲突"
+  },
+  {
+    "id": 15,
+    "name": "恶魔",
+    "englishName": "The Devil",
+    "suit": "Major",
+    "number": 15,
+    "upright": "束缚、物质、欲望、依赖、恐惧",
+    "reversed": "解放、克服、自由、打破束缚"
+  },
+  {
+    "id": 16,
+    "name": "高塔",
+    "englishName": "The Tower",
+    "suit": "Major",
+    "number": 16,
+    "upright": "混乱、灾难、突变、启示、解放",
+    "reversed": "避免灾难、抵抗改变、复兴"
+  },
+  {
+    "id": 17,
+    "name": "星辰",
+    "englishName": "The Star",
+    "suit": "Major",
+    "number": 17,
+    "upright": "希望、信念、灵感、灵性、祝愿",
+    "reversed": "绝望、失去信心、迷茫、幻想破灭"
+  },
+  {
+    "id": 18,
+    "name": "月亮",
+    "englishName": "The Moon",
+    "suit": "Major",
+    "number": 18,
+    "upright": "幻觉、潜意识、恐惧、直觉、迷幻",
+    "reversed": "澄清、真实、透视、理解"
+  },
+  {
+    "id": 19,
+    "name": "太阳",
+    "englishName": "The Sun",
+    "suit": "Major",
+    "number": 19,
+    "upright": "成功、快乐、活力、成就、乐观",
+    "reversed": "悲伤、失败、沮丧、欺骗"
+  },
+  {
+    "id": 20,
+    "name": "审判",
+    "englishName": "Judgement",
+    "suit": "Major",
+    "number": 20,
+    "upright": "重生、觉醒、内在召唤、评估、绝对",
+    "reversed": "自我怀疑、缺乏自信、错过良机"
+  },
+  {
+    "id": 21,
+    "name": "世界",
+    "englishName": "The World",
+    "suit": "Major",
+    "number": 21,
+    "upright": "完成、成就、旅途的终点、整体、圆满",
+    "reversed": "不完整、停滞、分离、寻求"
+  },
+  {
+    "id": 22,
+    "name": "权杖一",
+    "englishName": "Ace of Wands",
+    "suit": "Wands",
+    "number": 1,
+    "upright": "创意、生长、新想法、潜力、灵感",
+    "reversed": "创意阻碍、缺乏增长、瓶颈"
+  },
+  {
+    "id": 23,
+    "name": "权杖二",
+    "englishName": "Two of Wands",
+    "suit": "Wands",
+    "number": 2,
+    "upright": "计划、远景、可能性、进展、决定",
+    "reversed": "无法决定、缺乏方向、困惑"
+  },
+  {
+    "id": 24,
+    "name": "权杖三",
+    "englishName": "Three of Wands",
+    "suit": "Wands",
+    "number": 3,
+    "upright": "远望、扩展、合作、机会、增长",
+    "reversed": "延迟、缺乏方向、失望"
+  },
+  {
+    "id": 25,
+    "name": "权杖四",
+    "englishName": "Four of Wands",
+    "suit": "Wands",
+    "number": 4,
+    "upright": "庆祝、稳定、传统、家庭、根基",
+    "reversed": "缺乏稳定、分裂、不安定"
+  },
+  {
+    "id": 26,
+    "name": "权杖五",
+    "englishName": "Five of Wands",
+    "suit": "Wands",
+    "number": 5,
+    "upright": "冲突、竞争、竞争、争论、紧张",
+    "reversed": "和解、合作、解决、一致"
+  },
+  {
+    "id": 27,
+    "name": "权杖六",
+    "englishName": "Six of Wands",
+    "suit": "Wands",
+    "number": 6,
+    "upright": "成功、认可、赞美、领导、进展",
+    "reversed": "失败、被低估、缺乏认可"
+  },
+  {
+    "id": 28,
+    "name": "权杖七",
+    "englishName": "Seven of Wands",
+    "suit": "Wands",
+    "number": 7,
+    "upright": "坚持、挑战、防卫、意志力、坚强",
+    "reversed": "放弃、屈服、缺乏信心"
+  },
+  {
+    "id": 29,
+    "name": "权杖八",
+    "englishName": "Eight of Wands",
+    "suit": "Wands",
+    "number": 8,
+    "upright": "快速、行动、进展、能量、通讯",
+    "reversed": "延迟、缓慢、停滞、障碍"
+  },
+  {
+    "id": 30,
+    "name": "权杖九",
+    "englishName": "Nine of Wands",
+    "suit": "Wands",
+    "number": 9,
+    "upright": "韧性、决心、准备、力量、恢复",
+    "reversed": "疲惫、退缩、缺乏准备"
+  },
+  {
+    "id": 31,
+    "name": "权杖十",
+    "englishName": "Ten of Wands",
+    "suit": "Wands",
+    "number": 10,
+    "upright": "负担、责任、压力、完美主义者、重负",
+    "reversed": "放下、委派、解脱、减轻"
+  },
+  {
+    "id": 32,
+    "name": "权杖侍者",
+    "englishName": "Page of Wands",
+    "suit": "Wands",
+    "number": 11,
+    "upright": "好奇、热情、冒险、开放、年轻精神",
+    "reversed": "不可靠、缺乏方向、抑郁"
+  },
+  {
+    "id": 33,
+    "name": "权杖骑士",
+    "englishName": "Knight of Wands",
+    "suit": "Wands",
+    "number": 12,
+    "upright": "冒险、热情、能量、冲动、自由精神",
+    "reversed": "缺乏方向、好冲动、不稳定"
+  },
+  {
+    "id": 34,
+    "name": "权杖皇后",
+    "englishName": "Queen of Wands",
+    "suit": "Wands",
+    "number": 13,
+    "upright": "热情、独立、社交、创意、温暖",
+    "reversed": "嫉妒、自私、不安全、冷漠"
+  },
+  {
+    "id": 35,
+    "name": "权杖国王",
+    "englishName": "King of Wands",
+    "suit": "Wands",
+    "number": 14,
+    "upright": "领导、冒险、远见、魅力、决断",
+    "reversed": "暴躁、专制、缺乏自制、冲动"
+  },
+  {
+    "id": 36,
+    "name": "圣杯一",
+    "englishName": "Ace of Cups",
+    "suit": "Cups",
+    "number": 1,
+    "upright": "新起点、灵感、潜力、爱、幸福",
+    "reversed": "阻碍、缺乏感受性、情感混乱"
+  },
+  {
+    "id": 37,
+    "name": "圣杯二",
+    "englishName": "Two of Cups",
+    "suit": "Cups",
+    "number": 2,
+    "upright": "联系、伙伴关系、关系、亲密、结合",
+    "reversed": "分离、不和谐、误解、不平衡"
+  },
+  {
+    "id": 38,
+    "name": "圣杯三",
+    "englishName": "Three of Cups",
+    "suit": "Cups",
+    "number": 3,
+    "upright": "庆祝、社区、友谊、聚集、乐趣",
+    "reversed": "超支、分裂、孤立、缺乏社交"
+  },
+  {
+    "id": 39,
+    "name": "圣杯四",
+    "englishName": "Four of Cups",
+    "suit": "Cups",
+    "number": 4,
+    "upright": "冥想、离别、内省、问题、漠不关心",
+    "reversed": "接纳、新关系、好机会、感受"
+  },
+  {
+    "id": 40,
+    "name": "圣杯五",
+    "englishName": "Five of Cups",
+    "suit": "Cups",
+    "number": 5,
+    "upright": "损失、悲伤、失望、遗憾、悲哀",
+    "reversed": "恢复、接纳、原谅、希望"
+  },
+  {
+    "id": 41,
+    "name": "圣杯六",
+    "englishName": "Six of Cups",
+    "suit": "Cups",
+    "number": 6,
+    "upright": "怀旧、亲近、童真、平和、记忆",
+    "reversed": "不安全、缺乏交流、创伤"
+  },
+  {
+    "id": 42,
+    "name": "圣杯七",
+    "englishName": "Seven of Cups",
+    "suit": "Cups",
+    "number": 7,
+    "upright": "幻想、幻觉、选择、迷幻、渴望",
+    "reversed": "澄清、真相、焦点、理性"
+  },
+  {
+    "id": 43,
+    "name": "圣杯八",
+    "englishName": "Eight of Cups",
+    "suit": "Cups",
+    "number": 8,
+    "upright": "放弃、距离、不满足、追求、旅程",
+    "reversed": "停留、依恋、缺乏方向"
+  },
+  {
+    "id": 44,
+    "name": "圣杯九",
+    "englishName": "Nine of Cups",
+    "suit": "Cups",
+    "number": 9,
+    "upright": "幸福、满足、成功、享受、感激",
+    "reversed": "过度沉溺、空虚、不满足"
+  },
+  {
+    "id": 45,
+    "name": "圣杯十",
+    "englishName": "Ten of Cups",
+    "suit": "Cups",
+    "number": 10,
+    "upright": "家庭、幸福、和谐、联系、团圆",
+    "reversed": "分裂、不幸、冲突、支离破碎"
+  },
+  {
+    "id": 46,
+    "name": "圣杯侍者",
+    "englishName": "Page of Cups",
+    "suit": "Cups",
+    "number": 11,
+    "upright": "想象、好奇、敏感、艺术、玩心",
+    "reversed": "迟钝、缺乏见闻、不成熟、泪水"
+  },
+  {
+    "id": 47,
+    "name": "圣杯骑士",
+    "englishName": "Knight of Cups",
+    "suit": "Cups",
+    "number": 12,
+    "upright": "浪漫、梦想家、理想主义、诗意、消息",
+    "reversed": "不真实、过度感情化、虚伪、肤浅"
+  },
+  {
+    "id": 48,
+    "name": "圣杯皇后",
+    "englishName": "Queen of Cups",
+    "suit": "Cups",
+    "number": 13,
+    "upright": "直觉、关怀、同情、体贴、敏感",
+    "reversed": "不稳定、缺乏同理心、依赖、情绪化"
+  },
+  {
+    "id": 49,
+    "name": "圣杯国王",
+    "englishName": "King of Cups",
+    "suit": "Cups",
+    "number": 14,
+    "upright": "平衡、掌控、情商、成熟、同情",
+    "reversed": "情绪失控、不稳定、虚弱、操纵"
+  },
+  {
+    "id": 50,
+    "name": "宝剑一",
+    "englishName": "Ace of Swords",
+    "suit": "Swords",
+    "number": 1,
+    "upright": "真相、清晰、想法、开始、力量",
+    "reversed": "混乱、缺乏清晰、误解、沮丧"
+  },
+  {
+    "id": 51,
+    "name": "宝剑二",
+    "englishName": "Two of Swords",
+    "suit": "Swords",
+    "number": 2,
+    "upright": "矛盾、僵局、两难、平衡、困惑",
+    "reversed": "清晰、决定、解决、启示"
+  },
+  {
+    "id": 52,
+    "name": "宝剑三",
+    "englishName": "Three of Swords",
+    "suit": "Swords",
+    "number": 3,
+    "upright": "痛苦、悲伤、分离、心碎、困扰",
+    "reversed": "原谅、愈合、恢复、和解"
+  },
+  {
+    "id": 53,
+    "name": "宝剑四",
+    "englishName": "Four of Swords",
+    "suit": "Swords",
+    "number": 4,
+    "upright": "休息、恢复、冥想、稳定、平和",
+    "reversed": "无法休息、焦虑、失眠、警惕"
+  },
+  {
+    "id": 54,
+    "name": "宝剑五",
+    "englishName": "Five of Swords",
+    "suit": "Swords",
+    "number": 5,
+    "upright": "冲突、失败、焦躁、竞争、气馁",
+    "reversed": "接纳、无谓的胜利、释放、宽恕"
+  },
+  {
+    "id": 55,
+    "name": "宝剑六",
+    "englishName": "Six of Swords",
+    "suit": "Swords",
+    "number": 6,
+    "upright": "过渡、逃脱、流离、向前移动、旅程",
+    "reversed": "停滞、不愿改变、回到困难"
+  },
+  {
+    "id": 56,
+    "name": "宝剑七",
+    "englishName": "Seven of Swords",
+    "suit": "Swords",
+    "number": 7,
+    "upright": "欺骗、背叛、狡诈、欺瞒、盗窃",
+    "reversed": "被包容、诚实、改革、救赎"
+  },
+  {
+    "id": 57,
+    "name": "宝剑八",
+    "englishName": "Eight of Swords",
+    "suit": "Swords",
+    "number": 8,
+    "upright": "被困、无力、受限、困难、无助",
+    "reversed": "解放、解脱、突破、力量"
+  },
+  {
+    "id": 58,
+    "name": "宝剑九",
+    "englishName": "Nine of Swords",
+    "suit": "Swords",
+    "number": 9,
+    "upright": "焦虑、恐惧、失眠、内疚、绝望",
+    "reversed": "释放、缓解、恢复、安心"
+  },
+  {
+    "id": 59,
+    "name": "宝剑十",
+    "englishName": "Ten of Swords",
+    "suit": "Swords",
+    "number": 10,
+    "upright": "背叛、伤害、结束、失败、悲伤",
+    "reversed": "恢复、愈合、开始、救援"
+  },
+  {
+    "id": 60,
+    "name": "宝剑侍者",
+    "englishName": "Page of Swords",
+    "suit": "Swords",
+    "number": 11,
+    "upright": "好奇、好辩、聪慧、观察、骚动",
+    "reversed": "无知、缺乏沟通、冷漠、狡诈"
+  },
+  {
+    "id": 61,
+    "name": "宝剑骑士",
+    "englishName": "Knight of Swords",
+    "suit": "Swords",
+    "number": 12,
+    "upright": "逻辑、激进、冲动、反叛、诚实",
+    "reversed": "傲慢、好战、冷酷、虚伪"
+  },
+  {
+    "id": 62,
+    "name": "宝剑皇后",
+    "englishName": "Queen of Swords",
+    "suit": "Swords",
+    "number": 13,
+    "upright": "清晰、直言不讳、独立、智慧、冷静",
+    "reversed": "刻薄、冷漠、苛刻、固执"
+  },
+  {
+    "id": 63,
+    "name": "宝剑国王",
+    "englishName": "King of Swords",
+    "suit": "Swords",
+    "number": 14,
+    "upright": "权力、聪慧、权威、分析、公正",
+    "reversed": "冷酷、独裁、残酷、虚弱"
+  },
+  {
+    "id": 64,
+    "name": "五角星一",
+    "englishName": "Ace of Pentacles",
+    "suit": "Pentacles",
+    "number": 1,
+    "upright": "机会、繁荣、丰富、新起点、潜力",
+    "reversed": "缺乏、损失、浪费、未实现的可能"
+  },
+  {
+    "id": 65,
+    "name": "五角星二",
+    "englishName": "Two of Pentacles",
+    "suit": "Pentacles",
+    "number": 2,
+    "upright": "平衡、灵活、适应、管理、适应性",
+    "reversed": "不平衡、混乱、缺乏协调"
+  },
+  {
+    "id": 66,
+    "name": "五角星三",
+    "englishName": "Three of Pentacles",
+    "suit": "Pentacles",
+    "number": 3,
+    "upright": "协作、技能、学习、劳动、工作",
+    "reversed": "缺乏技能、不熟练、低质量"
+  },
+  {
+    "id": 67,
+    "name": "五角星四",
+    "englishName": "Four of Pentacles",
+    "suit": "Pentacles",
+    "number": 4,
+    "upright": "控制、守护、安全、稳定、节俭",
+    "reversed": "贪婪、固执、缺乏分享、束缚"
+  },
+  {
+    "id": 68,
+    "name": "五角星五",
+    "englishName": "Five of Pentacles",
+    "suit": "Pentacles",
+    "number": 5,
+    "upright": "贫困、困难、不幸、不安全、物质缺陷",
+    "reversed": "恢复、庇护、希望、稳定"
+  },
+  {
+    "id": 69,
+    "name": "五角星六",
+    "englishName": "Six of Pentacles",
+    "suit": "Pentacles",
+    "number": 6,
+    "upright": "慷慨、分享、公平、帮助、善举",
+    "reversed": "自私、不公正、不平等、吝啬"
+  },
+  {
+    "id": 70,
+    "name": "五角星七",
+    "englishName": "Seven of Pentacles",
+    "suit": "Pentacles",
+    "number": 7,
+    "upright": "评估、检查、反思、进展、耕耘",
+    "reversed": "短视、浪费、努力不足、失望"
+  },
+  {
+    "id": 71,
+    "name": "五角星八",
+    "englishName": "Eight of Pentacles",
+    "suit": "Pentacles",
+    "number": 8,
+    "upright": "学徒、技能、修炼、勤奋、学习",
+    "reversed": "懒惰、无能、缺乏专业、自满"
+  },
+  {
+    "id": 72,
+    "name": "五角星九",
+    "englishName": "Nine of Pentacles",
+    "suit": "Pentacles",
+    "number": 9,
+    "upright": "独立、财富、奢侈、自给自足、成功",
+    "reversed": "依赖、贫困、缺乏独立、损失"
+  },
+  {
+    "id": 73,
+    "name": "五角星十",
+    "englishName": "Ten of Pentacles",
+    "suit": "Pentacles",
+    "number": 10,
+    "upright": "财富、遗产、传统、安全、繁荣",
+    "reversed": "损失、不安全、家庭争执、断裂"
+  },
+  {
+    "id": 74,
+    "name": "五角星侍者",
+    "englishName": "Page of Pentacles",
+    "suit": "Pentacles",
+    "number": 11,
+    "upright": "学生、学习、勤奋、研究、专注",
+    "reversed": "散漫、缺乏方向、懒惰、不成熟"
+  },
+  {
+    "id": 75,
+    "name": "五角星骑士",
+    "englishName": "Knight of Pentacles",
+    "suit": "Pentacles",
+    "number": 12,
+    "upright": "可靠、勤奋、勤恳、忠诚、责任",
+    "reversed": "懒惰、不可靠、缺乏承诺、低效"
+  },
+  {
+    "id": 76,
+    "name": "五角星皇后",
+    "englishName": "Queen of Pentacles",
+    "suit": "Pentacles",
+    "number": 13,
+    "upright": "丰收、照顾、实用、关心、本质",
+    "reversed": "贪婪、自私、不负责任、缺乏同情"
+  },
+  {
+    "id": 77,
+    "name": "五角星国王",
+    "englishName": "King of Pentacles",
+    "suit": "Pentacles",
+    "number": 14,
+    "upright": "富裕、成功、权力、领导力、丰盛",
+    "reversed": "贪婪、腐败、缺乏同情、固执"
+  }
+]
