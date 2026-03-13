@@ -305,7 +305,7 @@ CMD ["node", "server.js"]
 docker build -t tarot-ai .
 docker run -p 3000:3000 -e DEEPSEEK_API_KEY=your_key tarot-ai
 ```
-
+ 
 ## 📝 许可证
 
 MIT License
