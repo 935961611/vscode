@@ -3,6 +3,8 @@
 // ========================
 
 // 完整的 78 张塔罗牌库（用于前端显示）
+const cors = require('cors');
+app.use(cors());
 const tarotCards = [
   { id: 0, name: '愚者', suit: 'Major' },
   { id: 1, name: '魔术师', suit: 'Major' },
