@@ -240,7 +240,7 @@ async function fetchDivination(question) {
     }, 300);
 
     // 调用后端 API
-    const response = await fetch('/api/divination', {
+    const response = await fetch('https://tarot-backend-c0ew.onrender.com/api/divination', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
